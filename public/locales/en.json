@@ -1,0 +1,14 @@
+{
+  "common": {
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "hello": "Hello",
+    "logout": "Logout"
+  },
+  "login": {
+    "description": "Talk to ChatGPT, GPT-4o, Claude 3 Opus, DALLE 3, and millions of others - all on Poe.",
+    "login-btn": "Go"
+  }
+}
